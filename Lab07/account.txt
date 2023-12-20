@@ -1,0 +1,2 @@
+Name: Tim, Account ID: 0, Balance: $0.00
+Name: Ted, Account ID: 1, Balance: $0.00

@@ -1,0 +1,6 @@
+[Hall]
+Its Dark.
+[N]orth: Bed
+[E]ast:  Bath
+[W]est:  Dining
+
